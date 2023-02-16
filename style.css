@@ -1,0 +1,18 @@
+.midheading {
+    display: flex;
+    justify-content: space-between;
+    color: blueviolet;
+}
+
+.leftheading {
+    display: flex;
+    justify-content: space-around;
+    width: 200px;
+}
+
+.fs {
+    font-size: 13px;
+    color: blueviolet;
+    border: 1px solid gray;
+    border-radius: 3px;
+}
