@@ -1,7 +1,9 @@
 .midheading {
     display: flex;
     justify-content: space-between;
-    color: blueviolet;
+    color: rgb(226, 107, 43);
+    position: sticky;
+    top: 0;
 }
 
 .leftheading {
@@ -12,7 +14,23 @@
 
 .fs {
     font-size: 13px;
-    color: blueviolet;
-    border: 1px solid gray;
+    color: rgb(226, 122, 43);
     border-radius: 3px;
+    border: 1px solid;
+
+}
+
+.main {
+    text-align: center;
+}
+
+.photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 3px;
+    margin-bottom: 20px;
+}
+
+.fstext {
+    font-size: 11px;
 }
